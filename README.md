@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Fahim 👋
 
-<!--
-**theSF77/theSF77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering (CSE) Student
 
-Here are some ideas to get you started:
+💻 Interested in AI, Software Development and Computer Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Java, Git, GitHub, and Networking fundamentals
+
+🎯 Goal: Build practical projects and improve my technical skills, Explore every branch.
+
+### 🛠️ Technologies I'm Learning
+- Java
+- Git & GitHub
+- Computer Networking
+- HTML & CSS
+
+### 📫 Connect with Me
+- GitHub: https://github.com/theSF77
+
+*Always learning, always improving.*
